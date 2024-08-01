@@ -1,0 +1,10 @@
+tensorflow[and-cuda]
+ipykernel
+tensorrt
+scipy
+matplotlib
+scikit-learn
+tensorflow-probability
+# tensorflow-addons
+tf-keras
+pandas
