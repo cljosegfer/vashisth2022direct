@@ -1,10 +1,11 @@
-tensorflow[and-cuda]
+tensorflow-gpu==2.4.0
+# tensorflow[and-cuda]
 ipykernel
 tensorrt
 scipy
 matplotlib
 scikit-learn
-tensorflow-probability
-# tensorflow-addons
+tensorflow-probability==0.12.2
+tensorflow-addons
 tf-keras
 pandas
