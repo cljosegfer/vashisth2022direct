@@ -1,4 +1,5 @@
 tensorflow-gpu==2.4.0
+numpy==1.19.2
 # tensorflow[and-cuda]
 ipykernel
 tensorrt
@@ -9,3 +10,4 @@ tensorflow-probability==0.12.2
 tensorflow-addons
 tf-keras
 pandas
+lasio
