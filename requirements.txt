@@ -1,5 +1,7 @@
-tensorflow-gpu==2.4.0
-numpy==1.19.2
+# tensorflow-gpu==2.4.0
+tensorflow==2.4.0
+numpy
+# numpy==1.20.0
 # tensorflow[and-cuda]
 ipykernel
 tensorrt
@@ -11,3 +13,4 @@ tensorflow-addons
 tf-keras
 pandas
 lasio
+segysak
